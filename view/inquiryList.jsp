@@ -6,7 +6,7 @@ String detail = (String)request.getAttribute("detail");
 %>
 <html>
 <head>
-<title>問合せ一覧</title>
+<title>問合せ一覧aa</title>
 <link rel="stylesheet"
   href="<%=request.getContextPath()%>/css/style.css">
 </head>
